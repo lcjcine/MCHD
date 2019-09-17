@@ -91,3 +91,5 @@ plt.xlabel('GÊNERO')
 plt.ylabel('CONSOLE')
 plt.title('QUANTIDADE DE TÍTULOS POR GÊNERO E CONSOLE')
 plt.show()
+
+Fonte: https://paulovasconcellos.com.br/como-criar-seu-primeiro-projeto-de-data-science-parte-2-de-2-cb9a2fe05eff
